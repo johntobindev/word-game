@@ -22,8 +22,8 @@ class Word {
 
 public class Words {
   private static List<Word> easy = new ArrayList<>(List.of(
-    new Word("bridge", "A structure carrying a path or road over a depression or obstacle"),
-    new Word("cinema", "A theatre designed for the purpose of showing films for entertainment"),
+    new Word("bridge", "A structure carrying a path or road over an obstacle, e.g. a river."),
+    new Word("cinema", "A theatre designed for the purpose of showing films for entertainment."),
     new Word("desk", "A table, often with drawers, which you sit at to write or work."),
     new Word("eye", "The organ of sight of animals."),
     new Word("fact", "A truth verifiable from experience or observation."),
@@ -79,7 +79,7 @@ public class Words {
     new Word("infrastructure", "The basic physical and organisational structures and facilities neededd for the operation of a society or enterprise."),
     new Word("jurisdiction", "The extent of the power to make legal decisions and judgements."),
     new Word("kombucha", "A fermented, lightly effervescent, sweetened black tea."),
-    new Word("laconic", "Using or involving the minimal use of words"),
+    new Word("laconic", "Using or involving the minimal use of words."),
     new Word("malfeasance", "Legal wrongdoing."),
     new Word("negligence", "Failure to take proper care over something."),
     new Word("pneumonia", "Inflammation of the lungs, usually caused by an infection."),
