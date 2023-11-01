@@ -76,7 +76,7 @@ public class Words {
     new Word("freighter", "A vehicle or person that transports cargo, supplies, or goods."),
     new Word("guerilla", "A member of a small independent group taking part in irregular fighting, typically against larger regular forces."),
     new Word("hierarchy", "A system in which members of an organization or society are ranked according to relative status or authority."),
-    new Word("infrastructure", "The basic physical and organisational structures and facilities neededd for the operation of a society or enterprise."),
+    new Word("infrastructure", "The basic physical and organisational structures and facilities needed for the operation of a society or enterprise."),
     new Word("jurisdiction", "The extent of the power to make legal decisions and judgements."),
     new Word("kombucha", "A fermented, lightly effervescent, sweetened black tea."),
     new Word("laconic", "Using or involving the minimal use of words."),
